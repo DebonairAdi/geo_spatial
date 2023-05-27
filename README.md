@@ -1,4 +1,4 @@
-# geo_spatio
+# geo_spatial
 
 This Python code performs various operations on a dataset containing latitude and longitude information. The code includes functions to identify the most frequent locations, perform clustering on latitude and longitude, generate density plots and perform clustering based on distance and time thresholds. The code also includes a main function that executes a series of functions.
 
