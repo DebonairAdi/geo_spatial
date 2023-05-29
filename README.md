@@ -68,10 +68,6 @@ This is the main calling function that executes a series of functions.
 
 The code is executed in the `__main__` block. It reads an Excel file ("Data.xlsx") into a pandas DataFrame, performs data preprocessing, sets the logging configuration, and calls the `main_caller()` function to execute the series of functions.
 
-The code redirects the standard output and error to a log file ("log_file.log") and restores the original standard output and error after execution.
-
-Make sure to replace "Data.xlsx" with the actual filename/path of your input data file.
-
 ## Usage
 
 To use this code, follow these steps:
